@@ -21,10 +21,12 @@ This script is designed to reset Valorant's graphic settings, clean up related f
 
 3. **Follow the Prompts**:
    - The script will display a warning message and ask you to select the Valorant installation directory.
+![image](https://github.com/user-attachments/assets/98faebca-0845-41ae-87a5-4baa19e67fff)
+
    - After selecting the directory, the script will proceed to clean up the necessary folders and reset settings.
 
 4. **Repair Valorant**:
-   - Once the script completes, you will need to start the Riot Client to repair Valorant files.
+   - Once the script completes, you will need to start the Riot Client or Login to Valorant to repair Valorant files.
 
 ## What the Script Does
 1. **Resets Graphic Settings**:
