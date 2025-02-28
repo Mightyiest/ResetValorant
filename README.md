@@ -1,6 +1,6 @@
 # Reset Valorant Script
 
-This script is designed to reset Valorant's graphic settings, clean up related folders, and uninstall Riot Vanguard. It also sets the DNS resolver to `1.1.1.1` and `1.0.0.1` for improved connectivity.
+This script is designed to reset Valorant's graphic settings, clean up related folders, and uninstall Riot Vanguard.
 
 ## Features
 - Resets Valorant's graphic settings.
